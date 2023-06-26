@@ -1,0 +1,17 @@
+.APP{
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+table, th, td {
+  border: 1px solid black;
+  padding: 5px;
+  margin-top: 20px;
+}
+table, td{
+  border-radius: 10%;
+}
+.search{border-bottom: 1 px dotted black;}
+
